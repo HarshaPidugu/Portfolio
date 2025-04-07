@@ -1,4 +1,4 @@
-import Photo from './assets/photo.png'; // Update path based on your folder structure
+import photo from '../pages/Assets/photo.png'; // Update path based on your folder structure
 
 function About() {
   return (
