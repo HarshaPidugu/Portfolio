@@ -1,10 +1,10 @@
 import React from 'react';
 import { Menu } from 'lucide-react';
-import Home from './pages/Home';
-import About from './pages/About';
-import Projects from './pages/Projects';
-import Certifications from './pages/Certifications';
-import Contact from './pages/Contact';
+import Home from '../src/pages/Home';
+import About from '../src/pages/About';
+import Projects from '../src/pages/Projects';
+import Certifications from '../src/pages/Certifications';
+import Contact from '../src/pages/Contact';
 
 function App() {
   const [isMenuOpen, setIsMenuOpen] = React.useState(false);
