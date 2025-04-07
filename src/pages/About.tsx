@@ -8,7 +8,7 @@ function About() {
           {/* Image Section - LEFT */}
           <div className="justify-self-start relative w-3/5">
             <img
-              src={Photo}
+              src={photo}
               alt="Harsha Vardhan"
               className="relative rounded-xl shadow-2xl w-full h-auto object-center object-cover scale-100 hover:scale-105 transition-transform duration-500 ease-in-out"
             />
