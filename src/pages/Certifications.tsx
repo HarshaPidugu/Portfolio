@@ -1,9 +1,9 @@
 import { useState } from 'react';
 import { X } from 'lucide-react';
-import course1 from './assets/course1.jpg';
-import course2 from './assets/course2.jpg';
-import course3 from './assets/course3.webp';
-import course4 from './assets/course4.jpg';
+import course1 from '../pages/Assets/course1.jpg';
+import course2 from '../pages/Assets/course2.jpg';
+import course3 from '../pages/Assets/course3.webp';
+import course4 from '../pages/Assets/course4.jpg';
 
 interface Certification {
   id: number;
