@@ -74,21 +74,21 @@ function App() {
 
       {/* Main Content */}
       <main className="pt-20 ">
-      <section id="home" className="scroll-mt-16">
-        <Home />
-      </section>
-      <section id="about" className="">
-        <About />
-      </section>
-      <section id="projects" className="">
-        <Projects />
-      </section>
-      <section id="certifications" className="">
-        <Certifications />
-      </section>
-      <section id="contact" className="scroll-mt-12">
-        <Contact />
-      </section>
+        <section id="home" className="scroll-mt-16">
+          <Home />
+        </section>
+        <section id="about" className="">
+          <About />
+        </section>
+        <section id="projects" className="">
+          <Projects />
+        </section>
+        <section id="certifications" className="">
+          <Certifications />
+        </section>
+        <section id="contact" className="scroll-mt-12">
+          <Contact />
+        </section>
     </main>
 
     </div>
