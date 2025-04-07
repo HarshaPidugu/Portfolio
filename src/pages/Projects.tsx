@@ -1,8 +1,8 @@
 import { useState } from 'react';
 import { X } from 'lucide-react';
-import FMD from './assets/FMD.png';
-import SDMS from './assets/SDMS.jpg';
-import BI from './assets/BI.png';
+import FMD from '../pages/Assets/FMD.png';
+import SDMS from '../pages/Assets/SDMS.jpg';
+import BI from '../pages/Assets/BI.png';
 
 interface Project {
   id: number;
